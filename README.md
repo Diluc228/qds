@@ -1,5 +1,5 @@
 from random import*
-shar = ("", 200, 250,40,40)
+shar = ("ping_pongPNG10383.png", 200, 250,40,40)
 dx = -2
 dy = -2
 speedx = 3
